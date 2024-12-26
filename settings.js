@@ -10,7 +10,7 @@ global.own = ['6281541182115', '0']
 global.owner = ['6281541182115', '6281541182115']
 global.packname = 'KagaLvly'
 global.author = 'ydaa'
-global.owname = 'mzyda'
+global.owname = 'Michael'
 global.botname = 'Kagal Lvly'
 global.listprefix = ['+', '!', '.']
 global.themeemoji = '🪀'
@@ -28,10 +28,10 @@ global.fake = {
 	listfakedocs: ['application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/pdf'],
 }
 global.my = {
-	yt: 'https://www.youtube.com/@sychyy00',
-	gh: 'https://github.com/sychyy',
-	gc: 'https://chat.whatsapp.com/Hx9vcBVhbc04KLVGPFtH2R',
-	ch: '120363383347233294@newsletter',
+	yt: 'https://www.instagram.com/mic.ajaa/',
+	gh: 'https://www.instagram.com/mic.ajaa/',
+	gc: 'https://chat.whatsapp.com/KVr51RQArna8KD1XT13emA',
+	ch: '312131@newsletter',
 }
 global.limit = {
 	free: 999,
@@ -44,7 +44,7 @@ global.uang = {
 	vip: 10000000
 }
 global.mess = {
-	key0: 'Apikey mu telah habis silahkan kunjungi\nhttps://my.hitori.pw',
+	key0: 'Apikey mu telah habis silahkan kunjungi\nhttps://youtube.com',
 	owner: 'lu bkn owner',
 	admin: 'lu bkn atmin',
 	botAdmin: 'gw bkn atmin bro',
