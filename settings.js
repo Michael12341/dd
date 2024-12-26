@@ -6,12 +6,12 @@ const chalk = require('chalk');
  * Whatsapp : https://whatsapp.com/channel/0029Vb0v3F71yT264EejzJ3e
  */
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
-global.own = ['6287862997267', '0']
-global.owner = ['6287862997267', '62882008702155']
-global.packname = 'SychBotz'
+global.own = ['6281541182115', '0']
+global.owner = ['6281541182115', '6281541182115']
+global.packname = 'KagaLvly'
 global.author = 'ydaa'
 global.owname = 'mzyda'
-global.botname = 'Sychy Bot'
+global.botname = 'Kagal Lvly'
 global.listprefix = ['+', '!', '.']
 global.themeemoji = '🪀'
 global.listv = ['•', '●', '■', '✿', '▲', '➩', '➢', '➣', '➤', '✦', '✧', '△', '❀', '○', '□', '♤', '♡', '◇', '♧', '々', '〆']
