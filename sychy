@@ -1358,7 +1358,7 @@ for (const emoji of reactEmojis) {
 			case 'script':
 			case 'esce': {
 				await sych.sendMessage(m.chat, {
-					text: `https://github.com/sychyy/sychee\n⬆️ Itu Sc nya cuy`,
+					text: `https://www.instagram.com/mic.ajaa/ ⬆️ Itu Sc nya cuy`,
 					contextInfo: {
 						forwardingScore: 10,
 						isForwarded: true,
@@ -2709,7 +2709,7 @@ for (const emoji of reactEmojis) {
 							// Kirim buffer gambar sebagai stiker
 							await sych.sendAsSticker(m.chat, buffer, m, {
 								packname: 'ydz',
-								author: 'SychyBOTz'
+								author: 'KagalBotz'
 							});
 							console.log('Stiker berhasil dikirim.');
 						}).catch((err) => {
