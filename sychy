@@ -339,8 +339,8 @@ module.exports = sych = async (sych, m, chatUpdate, store) => {
 						"title": `${global.botname}`,
 						"body": `${ucapanWaktu} ${m.pushName ? m.pushName : 'Tanpa Nama'} 👋🏻`,
 						"previewType": "VIDEO",
-						"thumbnailUrl": 'https://i.ibb.co.com/3rqCPX6/fk.jpg',
-						"sourceUrl": 'https://github.com/sychyy'
+						"thumbnailUrl": 'https://ibb.co.com/sKkCmwN',
+						"sourceUrl": 'https://www.instagram.com/mic.ajaa/y'
 					}
 				}
 			}, {
